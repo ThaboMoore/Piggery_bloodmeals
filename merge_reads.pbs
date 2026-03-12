@@ -1,0 +1,52 @@
+#!/bin/bash
+#PBS -N merge_reads
+#PBS -l mem=16GB,walltime=08:00:00,ncpus=8
+#PBS -m ae
+#PBS -M kevin.moore@qimrb.edu.au
+#PBS -o /export/home/s5248233/Sequencing/MMseqs2/scripts/
+#PBS -e /export/home/s5248233/Sequencing/MMseqs2/scripts/
+
+# Paths
+HOME_DIR="/export/home/s5248233/Sequencing/MMseqs2"
+RAW_DIR="${HOME_DIR}/rawdata"
+MERGED_DIR="${HOME_DIR}/merged_data"
+TEMP_DIR="${HOME_DIR}/temp_merge"
+THREADS=8
+USEARCH_PATH="${HOME}/software/usearch_linux_x86_12.0-beta"
+
+# Setup directories
+mkdir -p ${MERGED_DIR}
+mkdir -p ${TEMP_DIR}
+
+# Process each sample
+for R1_GZ in ${RAW_DIR}/*_R1_001.fastq.gz; do
+  
+    SAMPLE=$(basename ${R1_GZ} _R1_001.fastq.gz)
+    R2_GZ="${RAW_DIR}/${SAMPLE}_R2_001.fastq.gz"
+  
+    # Skip if no matching R2
+    if [ ! -f ${R2_GZ} ]; then
+        continue
+    fi
+  
+    # Decompress to temp
+    gunzip -c ${R1_GZ} > ${TEMP_DIR}/${SAMPLE}_R1.fastq
+    gunzip -c ${R2_GZ} > ${TEMP_DIR}/${SAMPLE}_R2.fastq
+  
+    # Run merge
+    ${USEARCH_PATH} \
+        -fastq_mergepairs ${TEMP_DIR}/${SAMPLE}_R1.fastq \
+        -reverse ${TEMP_DIR}/${SAMPLE}_R2.fastq \
+        -fastaout ${MERGED_DIR}/${SAMPLE}_merged.fasta \
+        -fastqout_notmerged_fwd ${TEMP_DIR}/${SAMPLE}_notmerged_R1.fastq \
+        -fastqout_notmerged_rev ${TEMP_DIR}/${SAMPLE}_notmerged_R2.fastq \
+        -report ${MERGED_DIR}/${SAMPLE}_merge_report.txt \
+        -threads ${THREADS} \
+        -fastq_pctid 90 \
+        -fastq_minmergelen 20 \
+        -fastq_maxdiffs 10
+
+    # Cleanup temp files
+    rm -f ${TEMP_DIR}/${SAMPLE}_*.fastq
+
+done
