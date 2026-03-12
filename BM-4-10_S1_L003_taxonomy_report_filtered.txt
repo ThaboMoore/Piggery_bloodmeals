@@ -1,0 +1,67 @@
+69.7999	138883	93	family	9895	                                                    Bovidae
+64.9872	129307	128811	genus	9935	                                                        Ovis
+0.0834	166	166	species	469796	                                                          Ovis orientalis
+0.0653	130	130	species	3370470	                                                          Ovis gmelinii
+0.0613	122	122	species	30527	                                                          Ovis ammon
+0.0297	59	59	species	59896	                                                          Ovis vignei
+0.0030	6	6	species	56194	                                                          Ovis nivicola
+0.0025	5	5	species	703186	                                                          Ovis orientalis x vignei
+0.0020	4	4	species	9943	                                                          Ovis dalli
+0.0010	2	2	species	9940	                                                          Ovis aries
+0.0010	2	2	species	37174	                                                          Ovis canadensis
+0.0493	98	10	genus	9922	                                                        Capra
+0.0206	41	41	species	72543	                                                          Capra nubiana
+0.0090	18	18	species	9925	                                                          Capra hircus
+0.0070	14	14	species	72541	                                                          Capra cylindricornis
+0.0050	10	10	species	72544	                                                          Capra sibirica
+0.0015	3	3	species	72540	                                                          Capra caucasica
+0.0005	1	1	species	9923	                                                          Capra aegagrus
+0.0005	1	1	species	72542	                                                          Capra ibex
+0.0297	59	0	genus	2305161	                                                        Arabitragus
+0.0297	59	59	species	330465	                                                          Arabitragus jayakari
+0.0025	5	0	genus	34870	                                                        Naemorhedus
+0.0010	2	2	species	34871	                                                          Naemorhedus goral
+0.0010	2	2	species	561742	                                                          Naemorhedus griseus
+0.0005	1	1	species	1088030	                                                          Naemorhedus baileyi
+0.0005	1	0	genus	9898	                                                        Ammotragus
+0.0005	1	1	species	9899	                                                          Ammotragus lervia
+0.0005	1	1	genus	9965	                                                        Capricornis
+0.0005	1	0	genus	34872	                                                        Oreamnos
+0.0005	1	1	species	34873	                                                          Oreamnos americanus
+0.0005	1	0	genus	37175	                                                        Ovibos
+0.0005	1	1	species	37176	                                                          Ovibos moschatus
+0.0005	1	0	genus	37178	                                                        Hemitragus
+0.0005	1	1	species	37179	                                                          Hemitragus jemlahicus
+0.0005	1	0	genus	59541	                                                        Pseudois
+0.0005	1	1	species	59542	                                                          Pseudois nayaur
+0.0533	106	105	genus	9903	                                                        Bos
+0.0005	1	1	species	9915	                                                          Bos indicus
+0.0005	1	0	genus	9918	                                                        Bubalus
+0.0005	1	1	species	56639	                                                          Bubalus mindorensis
+0.0095	19	0	genus	59537	                                                        Pantholops
+0.0095	19	19	species	59538	                                                          Pantholops hodgsonii
+0.0025	5	0	genus	9928	                                                        Damaliscus
+0.0025	5	5	species	9929	                                                          Damaliscus lunatus
+0.0020	4	4	genus	59516	                                                        Alcelaphus
+0.0005	1	0	genus	9926	                                                        Connochaetes
+0.0005	1	1	species	9927	                                                          Connochaetes taurinus
+0.0015	3	0	genus	37184	                                                        Hippotragus
+0.0015	3	3	species	37186	                                                          Hippotragus equinus
+0.0005	1	0	genus	9957	                                                        Oryx
+0.0005	1	1	species	39411	                                                          Oryx leucoryx
+0.0005	1	1	genus	9961	                                                        Kobus
+0.0005	1	0	genus	59553	                                                        Redunca
+0.0005	1	1	species	59556	                                                          Redunca redunca
+0.0005	1	0	genus	9954	                                                        Cephalophus
+0.0005	1	1	species	129231	                                                          Cephalophus spadix
+5.9269	11793	3	family	9821	                                                  Suidae
+5.9254	11790	931	genus	9822	                                                    Sus
+5.2766	10499	10499	species	9823	                                                      Sus scrofa
+0.1774	353	353	species	273789	                                                      Sus celebensis
+0.0020	4	4	species	41807	                                                      Sus barbatus
+0.0010	2	2	species	159856	                                                      Sus verrucosus
+0.0005	1	1	species	315376	                                                      Sus philippensis
+1.2846	2556	0	family	9335	                                            Phalangeridae
+1.2846	2556	219	genus	9336	                                              Trichosurus
+1.1650	2318	2318	species	9337	                                                Trichosurus vulpecula
+0.0095	19	19	species	175811	                                                Trichosurus arnhemensis

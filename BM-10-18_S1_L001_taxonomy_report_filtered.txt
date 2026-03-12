@@ -1,0 +1,33 @@
+62.5632	2343946	383	family	9158	                                                                  Passeridae
+62.5444	2343243	2335018	genus	9159	                                                                    Passer
+0.0715	2677	2677	species	48849	                                                                      Passer domesticus
+0.0542	2029	2029	species	56115	                                                                      Passer hispaniolensis
+0.0343	1285	1285	species	9160	                                                                      Passer montanus
+0.0148	555	555	species	150919	                                                                      Passer simplex
+0.0115	432	432	species	150918	                                                                      Passer rutilans
+0.0069	257	257	species	498210	                                                                      Passer moabiticus
+0.0062	233	233	species	150914	                                                                      Passer ammodendri
+0.0049	184	184	species	58821	                                                                      Passer luteus
+0.0042	156	156	species	150917	                                                                      Passer melanurus
+0.0031	118	118	species	1069440	                                                                      Passer italiae
+0.0031	116	116	species	1930199	                                                                      Passer iagoensis
+0.0026	98	98	species	1117246	                                                                      Passer diffusus
+0.0019	70	70	species	150915	                                                                      Passer flaveolus
+0.0003	12	12	species	2796153	                                                                      Passer eminibey
+0.0001	2	2	species	150916	                                                                      Passer griseus
+0.0000	1	1	species	2796154	                                                                      Passer motitensis
+0.0045	168	0	genus	1405429	                                                                    Gymnoris
+0.0044	166	166	species	1405430	                                                                      Gymnoris xanthocollis
+0.0001	2	2	species	1464034	                                                                      Gymnoris superciliaris
+0.0019	73	10	genus	667179	                                                                    Pyrgilauda
+0.0010	38	38	species	667180	                                                                      Pyrgilauda blanfordi
+0.0005	18	18	species	1477527	                                                                      Pyrgilauda davidiana
+0.0002	7	7	species	221976	                                                                      Pyrgilauda ruficollis
+0.0017	62	0	genus	221975	                                                                    Montifringilla
+0.0017	62	62	species	356906	                                                                      Montifringilla adamsi
+0.0004	15	0	genus	150912	                                                                    Petronia
+0.0004	15	15	species	150913	                                                                      Petronia petronia
+0.0000	1	0	genus	99180	                                                                    Plocepasser
+0.0000	1	1	species	99181	                                                                      Plocepasser mahali
+0.0000	1	0	genus	2823048	                                                                    Onychostruthus
+0.0000	1	1	species	356909	                                                                      Onychostruthus taczanowskii

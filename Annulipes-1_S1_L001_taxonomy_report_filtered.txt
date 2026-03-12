@@ -1,0 +1,13 @@
+1.0383	8662	0	family	9604	                                                        Hominidae
+1.0379	8659	0	genus	9605	                                                            Homo
+1.0379	8659	8659	species	9606	                                                              Homo sapiens
+0.0004	3	0	genus	9596	                                                            Pan
+0.0004	3	3	species	9598	                                                              Pan troglodytes
+1.3111	10938	0	family	8332	                                          Plethodontidae
+1.2004	10015	0	genus	57540	                                              Aneides
+1.2004	10015	10015	species	154577	                                                Aneides aeneus
+0.0018	15	4	genus	43045	                                              Desmognathus
+0.0011	9	9	species	179531	                                                Desmognathus orestes
+0.0001	1	1	species	52101	                                                Desmognathus imitator
+0.0001	1	1	species	179530	                                                Desmognathus ocoee
+0.1088	908	0	genus	43043	                                              Eurycea
