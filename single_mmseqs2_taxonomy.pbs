@@ -1,0 +1,62 @@
+#!/bin/bash
+#PBS -N BM10-22
+#PBS -l mem=64GB,walltime=06:00:00,ncpus=8
+#PBS -m ae
+#PBS -M kevin.moore@qimrb.edu.au
+#PBS -o /export/home/s5248233/Sequencing/MMseqs2/scripts/
+#PBS -e /export/home/s5248233/Sequencing/MMseqs2/scripts/
+
+# Paths
+HOME_DIR="/export/home/s5248233/Sequencing/MMseqs2"
+MERGED_DIR="${HOME_DIR}/merged_data"
+TAXONOMY_DIR="${HOME_DIR}/taxonomy_results"
+MMSEQS_DB="${HOME_DIR}/refdatabase/customDB"
+TEMP_DIR="${HOME_DIR}/tmp"
+THREADS=8
+
+export PATH=~/software/mmseqs/bin:$PATH
+
+mkdir -p ${TAXONOMY_DIR}
+mkdir -p ${TEMP_DIR}
+
+# Sample to process
+SAMPLE="BM-10-22_S1_L001"
+MERGED_FASTA="${MERGED_DIR}/${SAMPLE}_merged.fasta"
+
+# Check input exists
+if [ ! -s ${MERGED_FASTA} ]; then
+    exit 1
+fi
+
+# Create query database
+mmseqs createdb ${MERGED_FASTA} ${TAXONOMY_DIR}/${SAMPLE}_queryDB
+
+# Taxonomic classification
+mmseqs taxonomy \
+    ${TAXONOMY_DIR}/${SAMPLE}_queryDB \
+    ${MMSEQS_DB} \
+    ${TAXONOMY_DIR}/${SAMPLE}_taxonomyResult \
+    ${TEMP_DIR} \
+    --search-type 3 \
+    --threads ${THREADS} \
+    --tax-lineage 1 \
+    -s 6 \
+    --min-seq-id 0.95 \
+    -e 1e-5 \
+    --lca-mode 2 \
+    --majority 0.5
+
+# Convert to TSV
+mmseqs createtsv \
+    ${TAXONOMY_DIR}/${SAMPLE}_queryDB \
+    ${TAXONOMY_DIR}/${SAMPLE}_taxonomyResult \
+    ${TAXONOMY_DIR}/${SAMPLE}_taxonomy.tsv
+
+# Generate report
+mmseqs taxonomyreport \
+    ${MMSEQS_DB} \
+    ${TAXONOMY_DIR}/${SAMPLE}_taxonomyResult \
+    ${TAXONOMY_DIR}/${SAMPLE}_taxonomy_report.txt
+
+# Cleanup
+rm -rf ${TEMP_DIR}
