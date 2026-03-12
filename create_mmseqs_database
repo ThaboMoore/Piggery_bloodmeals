@@ -1,0 +1,19 @@
+#!/bin/bash
+#PBS -N create_mmseqs_db
+#PBS -l mem=16GB,walltime=04:00:00,ncpus=4
+#PBS -m ae
+#PBS -M kevin.moore@griffithuni.edu.au
+#PBS -o /export/home/s5248233/Sequencing/MMseqs2/refdatabase
+#PBS -e /export/home/s5248233/Sequencing/MMseqs2/refdatabase
+
+cd /export/home/s5248233/Sequencing/MMseqs2/refdatabase
+
+export PATH=~/software/mmseqs/bin:$PATH
+
+# Create sequence database
+mmseqs createdb vertebrate_cytb.fasta customDB
+
+# Add taxonomy
+mmseqs createtaxdb customDB tmp \
+    --ncbi-tax-dump taxdump/ \
+    --tax-mapping-file mapping.tsv
