@@ -1,0 +1,5 @@
+25.7381	938590	0	family	9143	                                                                  Corcoracidae
+25.7380	938587	0	genus	9144	                                                                    Corcorax
+25.7380	938587	938587	species	9145	                                                                      Corcorax melanorhamphos
+0.0001	3	0	genus	181838	                                                                    Struthidea
+0.0001	3	3	species	181839	                                                                      Struthidea cinerea

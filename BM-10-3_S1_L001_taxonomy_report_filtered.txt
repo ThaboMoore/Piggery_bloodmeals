@@ -1,0 +1,95 @@
+61.4614	3400320	5042	family	9895	                                                    Bovidae
+57.5095	3181679	3171421	genus	9935	                                                        Ovis
+0.0544	3010	3010	species	30527	                                                          Ovis ammon
+0.0536	2967	2967	species	469796	                                                          Ovis orientalis
+0.0331	1832	1832	species	3370470	                                                          Ovis gmelinii
+0.0284	1572	1572	species	59896	                                                          Ovis vignei
+0.0088	486	486	species	9940	                                                          Ovis aries
+0.0035	191	191	species	56194	                                                          Ovis nivicola
+0.0016	90	90	species	703186	                                                          Ovis orientalis x vignei
+0.0011	62	51	species	9943	                                                          Ovis dalli
+0.0002	11	11	subspecies	72761	                                                            Ovis dalli dalli
+0.0008	47	47	species	37174	                                                          Ovis canadensis
+3.9328	217581	14	family	9335	                                            Phalangeridae
+3.9314	217505	24857	genus	9336	                                              Trichosurus
+3.4470	190706	190706	species	9337	                                                Trichosurus vulpecula
+0.0329	1821	1821	species	175811	                                                Trichosurus arnhemensis
+0.0022	121	121	species	128432	                                                Trichosurus caninus
+0.0011	62	0	genus	38622	                                              Phalanger
+0.0011	62	62	species	42473	                                                Phalanger orientalis
+4.2321	234138	2261	family	9146	                                                                  Meliphagidae
+4.1545	229843	7199	genus	266337	                                                                    Anthochaera
+4.0144	222093	222093	species	266366	                                                                      Anthochaera carunculata
+0.0081	447	447	species	266369	                                                                      Anthochaera paradoxa
+0.0015	81	81	species	266368	                                                                      Anthochaera lunulata
+0.0003	17	17	species	266367	                                                                      Anthochaera chrysoptera
+0.0001	6	6	species	2020318	                                                                      Anthochaera phrygia
+0.0174	965	0	genus	1921811	                                                                    Stomiopera
+0.0174	965	965	species	266315	                                                                      Stomiopera flava
+0.0065	360	0	genus	2041612	                                                                    Ptilotula
+0.0065	360	360	species	481899	                                                                      Ptilotula penicillata
+0.0051	282	45	genus	44313	                                                                    Manorina
+0.0041	225	225	species	44314	                                                                      Manorina melanocephala
+0.0001	8	8	species	61467	                                                                      Manorina melanophrys
+0.0001	4	4	species	266316	                                                                      Manorina flavigula
+0.0019	106	0	genus	108831	                                                                    Meliphaga
+0.0018	98	98	species	390649	                                                                      Meliphaga notata
+0.0001	6	6	species	3150959	                                                                      Meliphaga gracilis
+0.0000	2	2	species	390651	                                                                      Meliphaga lewinii
+0.0018	99	0	genus	43160	                                                                    Melidectes
+0.0016	90	90	species	266318	                                                                      Melidectes torquatus
+0.0002	9	9	species	43161	                                                                      Melidectes belfordi
+0.0008	45	0	genus	266378	                                                                    Ramsayornis
+0.0008	45	45	species	266380	                                                                      Ramsayornis modestus
+0.0005	26	23	genus	266414	                                                                    Phylidonyris
+0.0001	3	3	species	3150323	                                                                      Phylidonyris pyrrhopterus
+0.0005	26	0	genus	266359	                                                                    Grantiella
+0.0005	26	26	species	266360	                                                                      Grantiella picta
+0.0003	19	0	genus	266345	                                                                    Conopophila
+0.0003	16	16	species	266346	                                                                      Conopophila albogularis
+0.0001	3	3	species	266347	                                                                      Conopophila rufogularis
+0.0003	18	0	genus	108837	                                                                    Myzomela
+0.0003	17	17	species	266324	                                                                      Myzomela rosenbergii
+0.0000	1	1	species	266323	                                                                      Myzomela obscura
+0.0002	12	0	genus	9147	                                                                    Ptiloprora
+0.0002	12	12	species	9148	                                                                      Ptiloprora plumbea
+0.0002	12	1	genus	266350	                                                                    Epthianura
+0.0001	7	7	species	266351	                                                                      Epthianura albifrons
+0.0001	4	4	species	266354	                                                                      Epthianura tricolor
+0.0002	11	0	genus	1921801	                                                                    Bolemoreus
+0.0002	11	11	species	998102	                                                                      Bolemoreus frenatus
+0.0002	10	0	genus	266412	                                                                    Acanthagenys
+0.0002	10	10	species	266413	                                                                      Acanthagenys rufogularis
+0.0001	6	0	genus	266355	                                                                    Foulehaio
+0.0001	6	6	species	266356	                                                                      Foulehaio carunculatus
+0.0001	5	0	genus	3150803	                                                                    Microptilotis
+0.0001	5	5	species	3150955	                                                                      Microptilotis albonotatus
+0.0001	5	0	genus	266364	                                                                    Melilestes
+0.0001	5	5	species	266365	                                                                      Melilestes megarhynchus
+0.0001	5	0	genus	108843	                                                                    Philemon
+0.0001	4	4	species	266326	                                                                      Philemon argenticeps
+0.0000	1	1	species	266327	                                                                      Philemon buceroides
+0.0001	4	0	genus	2496571	                                                                    Sugomel
+0.0001	4	4	species	2496572	                                                                      Sugomel niger
+0.0001	3	0	genus	266334	                                                                    Acanthorhynchus
+0.0000	2	2	species	266336	                                                                      Acanthorhynchus tenuirostris
+0.0000	1	1	species	266335	                                                                      Acanthorhynchus superciliosus
+0.0000	2	0	genus	266338	                                                                    Ashbyia
+0.0000	2	2	species	266339	                                                                      Ashbyia lovensis
+0.0000	2	0	genus	266357	                                                                    Glycichaera
+0.0000	2	2	species	266358	                                                                      Glycichaera fallax
+0.0000	2	0	genus	108835	                                                                    Melithreptus
+0.0000	2	2	species	266320	                                                                      Melithreptus albogularis
+0.0000	2	0	genus	108833	                                                                    Melipotes
+0.0000	2	2	species	108834	                                                                      Melipotes fumigatus
+0.0000	2	0	genus	108829	                                                                    Macgregoria
+0.0000	2	2	species	108830	                                                                      Macgregoria pulchra
+0.0000	1	0	genus	1921818	                                                                    Purnella
+0.0000	1	1	species	1921819	                                                                      Purnella albifrons
+0.0000	1	0	genus	266381	                                                                    Timeliopsis
+0.0000	1	1	species	266383	                                                                      Timeliopsis griseigula
+0.0000	1	1	genus	266375	                                                                    Pycnopygius
+0.0000	1	0	genus	2821653	                                                                    Gliciphila
+0.0000	1	1	species	1156028	                                                                      Gliciphila melanops
+0.0000	1	0	genus	266340	                                                                    Certhionyx
+0.0000	1	1	species	266344	                                                                      Certhionyx variegatus

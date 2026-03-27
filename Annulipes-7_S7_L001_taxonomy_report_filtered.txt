@@ -1,0 +1,11 @@
+1.0529	5281	0	family	9604	                                                        Hominidae
+1.0529	5281	0	genus	9605	                                                            Homo
+1.0529	5281	5281	species	9606	                                                              Homo sapiens
+2.1594	10831	0	family	8332	                                          Plethodontidae
+2.0048	10056	0	genus	57540	                                              Aneides
+2.0048	10056	10056	species	154577	                                                Aneides aeneus
+0.0052	26	6	genus	43045	                                              Desmognathus
+0.0030	15	15	species	179531	                                                Desmognathus orestes
+0.0006	3	3	species	179530	                                                Desmognathus ocoee
+0.0004	2	2	species	52097	                                                Desmognathus auriculatus
+0.1493	749	0	genus	43043	                                              Eurycea

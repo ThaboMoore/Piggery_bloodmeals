@@ -1,0 +1,59 @@
+53.4725	839870	1503	family	9895	                                                    Bovidae
+50.0900	786743	779758	genus	9935	                                                        Ovis
+0.3608	5667	5667	species	9940	                                                          Ovis aries
+0.0559	878	878	species	469796	                                                          Ovis orientalis
+0.0106	167	167	species	3370470	                                                          Ovis gmelinii
+0.0087	137	137	species	30527	                                                          Ovis ammon
+0.0054	85	85	species	59896	                                                          Ovis vignei
+0.0020	31	31	species	56194	                                                          Ovis nivicola
+0.0010	15	15	species	703186	                                                          Ovis orientalis x vignei
+0.0003	5	2	species	9943	                                                          Ovis dalli
+0.0002	3	3	subspecies	72761	                                                            Ovis dalli dalli
+0.0023	36	6	genus	9922	                                                        Capra
+0.0008	12	12	species	9925	                                                          Capra hircus
+0.0004	6	6	species	72541	                                                          Capra cylindricornis
+0.0004	6	6	species	72542	                                                          Capra ibex
+0.0003	5	5	species	72543	                                                          Capra nubiana
+0.0001	1	1	species	72544	                                                          Capra sibirica
+0.0012	19	0	genus	2305161	                                                        Arabitragus
+0.0012	19	19	species	330465	                                                          Arabitragus jayakari
+0.0004	7	0	genus	34872	                                                        Oreamnos
+0.0004	7	7	species	34873	                                                          Oreamnos americanus
+0.0001	2	0	genus	34870	                                                        Naemorhedus
+0.0001	1	1	species	561742	                                                          Naemorhedus griseus
+0.0001	1	1	species	1088030	                                                          Naemorhedus baileyi
+0.0001	2	0	genus	59541	                                                        Pseudois
+0.0001	1	1	species	59542	                                                          Pseudois nayaur
+0.0001	1	1	species	112503	                                                          Pseudois schaeferi
+0.0030	47	0	genus	9928	                                                        Damaliscus
+0.0029	46	46	species	9929	                                                          Damaliscus lunatus
+0.0001	1	1	species	9931	                                                          Damaliscus pygargus
+0.0001	1	1	genus	59516	                                                        Alcelaphus
+0.0009	14	0	genus	59537	                                                        Pantholops
+0.0009	14	14	species	59538	                                                          Pantholops hodgsonii
+0.0001	2	0	genus	9933	                                                        Gazella
+0.0001	1	1	species	59529	                                                          Gazella subgutturosa
+0.0001	1	1	species	3569950	                                                          Gazella fuscifrons
+0.0001	2	0	genus	34874	                                                        Saiga
+0.0001	2	2	species	34875	                                                          Saiga tatarica
+0.0001	2	0	genus	457560	                                                        Nanger
+0.0001	2	0	species	67940	                                                          Nanger dama
+0.0001	2	2	subspecies	67941	                                                            Nanger dama ruficollis
+0.0001	1	0	genus	936348	                                                        Eudorcas
+0.0001	1	1	species	69308	                                                          Eudorcas thomsonii
+0.0002	3	0	genus	9961	                                                        Kobus
+0.0001	2	2	species	9962	                                                          Kobus ellipsiprymnus
+0.0001	1	1	species	59532	                                                          Kobus megaceros
+0.0001	2	0	genus	59553	                                                        Redunca
+0.0001	2	2	species	59556	                                                          Redunca redunca
+0.0001	1	0	genus	9954	                                                        Cephalophus
+0.0001	1	1	species	50347	                                                          Cephalophus silvicultor
+0.0001	1	0	genus	9896	                                                        Aepyceros
+0.0001	1	1	species	9897	                                                          Aepyceros melampus
+1.0259	16113	0	family	8332	                                          Plethodontidae
+0.9691	15221	0	genus	57540	                                              Aneides
+0.9691	15221	15221	species	154577	                                                Aneides aeneus
+0.0010	15	9	genus	43045	                                              Desmognathus
+0.0003	5	5	species	179530	                                                Desmognathus ocoee
+0.0001	1	1	species	179531	                                                Desmognathus orestes
+0.0555	872	0	genus	43043	                                              Eurycea
