@@ -1,0 +1,37 @@
+39.7351	1759572	176	family	9821	                                                  Suidae
+39.7285	1759280	159540	genus	9822	                                                    Sus
+35.0300	1551215	1551215	species	9823	                                                      Sus scrofa
+1.0826	47941	47941	species	273789	                                                      Sus celebensis
+0.0061	272	272	species	41807	                                                      Sus barbatus
+0.0028	125	125	species	159856	                                                      Sus verrucosus
+0.0022	96	96	species	315376	                                                      Sus philippensis
+0.0018	80	80	species	315378	                                                      Sus philippensis x Sus barbatus
+0.0002	11	11	species	315377	                                                      Sus cebifrons
+0.0018	80	0	genus	673353	                                                    Hylochoerus
+0.0018	80	80	species	673354	                                                      Hylochoerus meinertzhageni
+0.0007	31	13	genus	273790	                                                    Potamochoerus
+10.2946	455873	0	family	9604	                                                        Hominidae
+10.2940	455843	0	genus	9605	                                                            Homo
+10.2940	455843	455843	species	9606	                                                              Homo sapiens
+0.0006	26	0	genus	9596	                                                            Pan
+0.0006	26	26	species	9598	                                                              Pan troglodytes
+1.0344	45807	3	family	9158	                                                                  Passeridae
+1.0341	45791	45652	genus	9159	                                                                    Passer
+0.0010	44	44	species	48849	                                                                      Passer domesticus
+0.0007	33	33	species	56115	                                                                      Passer hispaniolensis
+0.0005	20	20	species	150919	                                                                      Passer simplex
+0.0003	14	14	species	498210	                                                                      Passer moabiticus
+0.0003	12	12	species	9160	                                                                      Passer montanus
+0.0001	6	6	species	150917	                                                                      Passer melanurus
+0.0001	3	3	species	1069440	                                                                      Passer italiae
+0.0001	3	3	species	1930199	                                                                      Passer iagoensis
+0.0000	2	2	species	58821	                                                                      Passer luteus
+0.0000	2	2	species	2796154	                                                                      Passer motitensis
+0.0002	7	0	genus	667179	                                                                    Pyrgilauda
+0.0001	4	4	species	221976	                                                                      Pyrgilauda ruficollis
+0.0001	3	3	species	1477527	                                                                      Pyrgilauda davidiana
+0.0001	4	1	genus	221975	                                                                    Montifringilla
+0.0000	2	2	species	356906	                                                                      Montifringilla adamsi
+0.0000	1	1	species	2557930	                                                                      Montifringilla henrici
+0.0000	2	0	genus	1405429	                                                                    Gymnoris
+0.0000	2	2	species	1405430	                                                                      Gymnoris xanthocollis

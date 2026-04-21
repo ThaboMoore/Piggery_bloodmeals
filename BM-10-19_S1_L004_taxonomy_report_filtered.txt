@@ -1,0 +1,36 @@
+22.4961	1439212	1126	family	9895	                                                    Bovidae
+21.2264	1357984	1349942	genus	9935	                                                        Ovis
+0.0398	2545	2545	species	469796	                                                          Ovis orientalis
+0.0295	1890	1890	species	3370470	                                                          Ovis gmelinii
+0.0206	1321	1321	species	30527	                                                          Ovis ammon
+0.0164	1047	1047	species	9940	                                                          Ovis aries
+0.0159	1015	1015	species	59896	                                                          Ovis vignei
+0.0025	161	161	species	703186	                                                          Ovis orientalis x vignei
+0.0008	50	50	species	56194	                                                          Ovis nivicola
+0.0001	9	9	species	37174	                                                          Ovis canadensis
+0.0000	3	3	species	9943	                                                          Ovis dalli
+5.1522	329619	26	family	9821	                                                  Suidae
+5.1516	329582	27289	genus	9822	                                                    Sus
+4.5812	293088	293088	species	9823	                                                      Sus scrofa
+0.1376	8800	8800	species	273789	                                                      Sus celebensis
+0.0023	148	148	species	159856	                                                      Sus verrucosus
+0.0022	141	141	species	41807	                                                      Sus barbatus
+0.0010	67	67	species	315378	                                                      Sus philippensis x Sus barbatus
+0.0004	26	26	species	315377	                                                      Sus cebifrons
+0.0004	23	23	species	315376	                                                      Sus philippensis
+0.0001	5	0	genus	673353	                                                    Hylochoerus
+0.0001	5	5	species	673354	                                                      Hylochoerus meinertzhageni
+0.0001	4	2	genus	273790	                                                    Potamochoerus
+11.3044	723209	0	family	9604	                                                        Hominidae
+11.3036	723158	0	genus	9605	                                                            Homo
+11.3036	723158	723158	species	9606	                                                              Homo sapiens
+0.0007	43	0	genus	9596	                                                            Pan
+0.0007	43	43	species	9598	                                                              Pan troglodytes
+0.0000	2	2	genus	9599	                                                            Pongo
+3.8593	246905	12	family	9335	                                            Phalangeridae
+3.8584	246847	23403	genus	9336	                                              Trichosurus
+3.4733	222209	222209	species	9337	                                                Trichosurus vulpecula
+0.0187	1196	1196	species	175811	                                                Trichosurus arnhemensis
+0.0006	39	39	species	128432	                                                Trichosurus caninus
+0.0007	46	0	genus	38622	                                              Phalanger
+0.0007	46	46	species	42473	                                                Phalanger orientalis

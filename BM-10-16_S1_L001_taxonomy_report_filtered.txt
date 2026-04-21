@@ -1,0 +1,24 @@
+42.0570	1199932	40	family	35549	                                                                Cacatuidae
+42.0543	1199855	3445	genus	12981	                                                                  Cacatua
+41.8831	1194970	5392	species	141271	                                                                    Cacatua sulphurea
+41.6941	1189578	1189578	subspecies	1548961	                                                                      Cacatua sulphurea sulphurea
+0.0167	477	477	species	1344800	                                                                    Cacatua tenuirostris
+0.0155	441	441	species	141835	                                                                    Cacatua ophthalmica
+0.0111	316	316	species	141834	                                                                    Cacatua ducorpsii
+0.0047	134	134	species	136504	                                                                    Cacatua moluccensis
+0.0013	36	36	species	141836	                                                                    Cacatua alba
+0.0005	13	13	species	141274	                                                                    Cacatua galerita
+0.0004	12	12	species	274074	                                                                    Cacatua sanguinea
+0.0004	11	11	species	141837	                                                                    Cacatua haematuropygia
+0.0009	27	0	genus	176038	                                                                  Eolophus
+0.0009	27	27	species	176039	                                                                    Eolophus roseicapilla
+0.0002	7	0	genus	141838	                                                                  Probosciger
+0.0002	7	7	species	141839	                                                                    Probosciger aterrimus
+0.0001	2	0	genus	2819877	                                                                  Lophochroa
+0.0001	2	2	species	471713	                                                                    Lophochroa leadbeateri
+0.0000	1	1	genus	2818394	                                                                  Zanda
+5.1591	147196	0	family	9604	                                                        Hominidae
+5.1589	147190	0	genus	9605	                                                            Homo
+5.1589	147190	147190	species	9606	                                                              Homo sapiens
+0.0002	5	0	genus	9596	                                                            Pan
+0.0002	5	5	species	9598	                                                              Pan troglodytes

@@ -1,0 +1,29 @@
+2.4771	27931	122	family	9146	                                                                  Meliphagidae
+2.1181	23884	0	genus	2041612	                                                                    Ptilotula
+2.1181	23884	23884	species	481899	                                                                      Ptilotula penicillata
+0.3069	3461	0	genus	1921811	                                                                    Stomiopera
+0.3069	3461	3461	species	266315	                                                                      Stomiopera flava
+0.0233	263	0	genus	9147	                                                                    Ptiloprora
+0.0233	263	263	species	9148	                                                                      Ptiloprora plumbea
+0.0137	154	154	genus	266375	                                                                    Pycnopygius
+0.0022	25	0	genus	1921818	                                                                    Purnella
+0.0022	25	25	species	1921819	                                                                      Purnella albifrons
+0.0005	6	0	genus	266345	                                                                    Conopophila
+0.0005	6	6	species	266347	                                                                      Conopophila rufogularis
+0.0005	6	0	genus	266337	                                                                    Anthochaera
+0.0004	4	4	species	266367	                                                                      Anthochaera chrysoptera
+0.0002	2	2	species	266368	                                                                      Anthochaera lunulata
+0.0004	5	0	genus	266412	                                                                    Acanthagenys
+0.0004	5	5	species	266413	                                                                      Acanthagenys rufogularis
+0.0003	3	0	genus	266381	                                                                    Timeliopsis
+0.0003	3	3	species	266383	                                                                      Timeliopsis griseigula
+0.0002	2	0	genus	108833	                                                                    Melipotes
+0.0001	1	1	species	1931065	                                                                      Melipotes ater
+0.0001	1	1	species	1931066	                                                                      Melipotes gymnops
+2.2298	25143	0	family	8332	                                          Plethodontidae
+2.1283	23999	0	genus	57540	                                              Aneides
+2.1283	23999	23999	species	154577	                                                Aneides aeneus
+0.0036	41	4	genus	43045	                                              Desmognathus
+0.0031	35	35	species	179531	                                                Desmognathus orestes
+0.0002	2	2	species	179530	                                                Desmognathus ocoee
+0.0976	1101	0	genus	43043	                                              Eurycea

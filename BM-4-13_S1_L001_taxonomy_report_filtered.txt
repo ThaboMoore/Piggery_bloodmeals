@@ -1,0 +1,6 @@
+25.9831	747464	0	family	9604	                                                        Hominidae
+25.9819	747430	0	genus	9605	                                                            Homo
+25.9819	747430	747430	species	9606	                                                              Homo sapiens
+0.0010	28	0	genus	9596	                                                            Pan
+0.0010	28	28	species	9598	                                                              Pan troglodytes
+0.0001	3	3	genus	9599	                                                            Pongo

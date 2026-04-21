@@ -1,0 +1,105 @@
+_107.9824	386208	2686	family	8899	                                                              Ardeidae
+6.9250	335050	26	genus	8900	                                                                Nycticorax
+5.9708	288882	288882	species	585469	                                                                  Nycticorax caledonicus
+0.9537	46142	46142	species	8901	                                                                  Nycticorax nycticorax
+0.7151	34596	1503	genus	30389	                                                                Ardea
+0.6607	31965	31965	species	110620	                                                                  Ardea alba
+0.0176	851	851	species	2200831	                                                                  Ardea insignis
+0.0047	227	227	species	30390	                                                                  Ardea cinerea
+0.0010	47	47	species	188373	                                                                  Ardea purpurea
+0.0001	3	3	species	585465	                                                                  Ardea pacifica
+0.2317	11211	11209	genus	56073	                                                                Egretta
+0.0000	2	2	species	1752861	                                                                  Egretta gularis
+0.0503	2434	0	genus	110667	                                                                Bubulcus
+0.0503	2434	2434	species	110668	                                                                  Bubulcus ibis
+0.0021	102	0	genus	110684	                                                                Ixobrychus
+0.0019	90	90	species	498209	                                                                  Ixobrychus minutus
+0.0002	12	12	species	188382	                                                                  Ixobrychus sinensis
+0.0021	101	0	genus	110670	                                                                Butorides
+0.0021	101	101	species	433628	                                                                  Butorides striata
+0.0006	27	0	genus	56293	                                                                Nyctanassa
+0.0006	27	27	species	56294	                                                                  Nyctanassa violacea
+0.0000	1	0	genus	110693	                                                                Tigrisoma
+0.0000	1	1	species	488314	                                                                  Tigrisoma fasciatum
+5.9544	288091	633	family	9895	                                                    Bovidae
+5.2322	253146	251125	genus	9935	                                                        Ovis
+0.0153	740	740	species	30527	                                                          Ovis ammon
+0.0135	652	652	species	59896	                                                          Ovis vignei
+0.0058	281	281	species	469796	                                                          Ovis orientalis
+0.0050	244	244	species	3370470	                                                          Ovis gmelinii
+0.0008	40	40	species	703186	                                                          Ovis orientalis x vignei
+0.0007	35	35	species	9940	                                                          Ovis aries
+0.0005	25	25	species	56194	                                                          Ovis nivicola
+0.0000	2	2	species	9943	                                                          Ovis dalli
+0.0000	2	2	species	37174	                                                          Ovis canadensis
+0.0044	215	29	genus	9922	                                                        Capra
+0.0023	111	111	species	72541	                                                          Capra cylindricornis
+0.0005	26	26	species	72544	                                                          Capra sibirica
+0.0004	20	20	species	72540	                                                          Capra caucasica
+0.0003	13	13	species	9925	                                                          Capra hircus
+0.0002	9	3	species	9923	                                                          Capra aegagrus
+0.0001	6	6	subspecies	231416	                                                            Capra aegagrus blythi
+0.0001	5	5	species	72543	                                                          Capra nubiana
+0.0000	1	1	species	48167	                                                          Capra falconeri
+0.0000	1	1	species	72542	                                                          Capra ibex
+0.0008	37	0	genus	2305161	                                                        Arabitragus
+0.0008	37	37	species	330465	                                                          Arabitragus jayakari
+0.0003	15	3	genus	9965	                                                        Capricornis
+0.0001	7	7	species	34866	                                                          Capricornis swinhoei
+0.0001	5	5	species	9966	                                                          Capricornis crispus
+0.0003	13	0	genus	37178	                                                        Hemitragus
+0.0003	13	13	species	37179	                                                          Hemitragus jemlahicus
+0.0001	3	0	genus	34872	                                                        Oreamnos
+0.0001	3	3	species	34873	                                                          Oreamnos americanus
+0.0001	3	0	genus	3349690	                                                        Nilgiritragus
+0.0001	3	3	species	3349691	                                                          Nilgiritragus hylocrius
+0.0000	2	0	genus	59541	                                                        Pseudois
+0.0000	1	1	species	59542	                                                          Pseudois nayaur
+0.0000	1	1	species	112503	                                                          Pseudois schaeferi
+0.0000	1	0	genus	9898	                                                        Ammotragus
+0.0000	1	1	species	9899	                                                          Ammotragus lervia
+0.0000	1	0	genus	201716	                                                        Myotragus
+0.0000	1	1	species	201717	                                                          Myotragus balearicus
+0.0039	190	0	genus	59537	                                                        Pantholops
+0.0039	190	190	species	59538	                                                          Pantholops hodgsonii
+0.0007	35	0	genus	457560	                                                        Nanger
+0.0007	35	0	species	67940	                                                          Nanger dama
+0.0007	35	35	subspecies	67941	                                                            Nanger dama ruficollis
+0.0000	2	0	genus	34874	                                                        Saiga
+0.0000	2	2	species	34875	                                                          Saiga tatarica
+0.0000	2	0	genus	66443	                                                        Oreotragus
+0.0000	2	2	species	66444	                                                          Oreotragus oreotragus
+0.0000	1	1	genus	9950	                                                        Madoqua
+0.0022	105	0	genus	9928	                                                        Damaliscus
+0.0021	104	104	species	9929	                                                          Damaliscus lunatus
+0.0000	1	1	species	9931	                                                          Damaliscus pygargus
+0.0005	22	0	genus	9916	                                                        Boselaphus
+0.0005	22	22	species	9917	                                                          Boselaphus tragocamelus
+0.0003	16	15	genus	9903	                                                        Bos
+0.0000	1	1	species	9915	                                                          Bos indicus
+0.0000	1	0	genus	97362	                                                        Pseudoryx
+0.0000	1	1	species	97363	                                                          Pseudoryx nghetinhensis
+0.0007	34	12	genus	9957	                                                        Oryx
+0.0005	22	22	species	344753	                                                          Oryx beisa
+0.0003	14	11	genus	9961	                                                        Kobus
+0.0000	2	2	species	9962	                                                          Kobus ellipsiprymnus
+0.0000	1	1	species	59532	                                                          Kobus megaceros
+0.0001	7	0	genus	59553	                                                        Redunca
+0.0001	6	6	species	59556	                                                          Redunca redunca
+0.0000	1	1	species	59554	                                                          Redunca arundinum
+0.0001	3	0	genus	9954	                                                        Cephalophus
+0.0000	2	2	species	129231	                                                          Cephalophus spadix
+0.0000	1	1	species	129225	                                                          Cephalophus jentinki
+0.0000	2	0	genus	907740	                                                        Philantomba
+0.0000	2	2	species	907741	                                                          Philantomba maxwellii
+0.0000	1	0	genus	3026943	                                                        Cephalophorus
+0.0000	1	1	species	70738	                                                          Cephalophorus leucogaster
+0.0000	1	0	genus	3033999	                                                        Cephalophula
+0.0000	1	1	species	129233	                                                          Cephalophula zebra
+0.0000	1	0	genus	9896	                                                        Aepyceros
+0.0000	1	1	species	9897	                                                          Aepyceros melampus
+1.6609	80360	0	family	9604	                                                        Hominidae
+1.6605	80341	0	genus	9605	                                                            Homo
+1.6605	80341	80341	species	9606	                                                              Homo sapiens
+0.0003	15	0	genus	9596	                                                            Pan
+0.0003	15	15	species	9598	                                                              Pan troglodytes

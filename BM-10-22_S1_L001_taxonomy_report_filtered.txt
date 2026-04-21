@@ -1,0 +1,37 @@
+5.4580	212551	140	family	9895	                                                    Bovidae
+5.1209	199424	196786	genus	9935	                                                        Ovis
+0.0337	1313	1313	species	469796	                                                          Ovis orientalis
+0.0142	553	553	species	3370470	                                                          Ovis gmelinii
+0.0103	401	401	species	30527	                                                          Ovis ammon
+0.0047	182	182	species	59896	                                                          Ovis vignei
+0.0039	150	150	species	9940	                                                          Ovis aries
+0.0008	30	30	species	703186	                                                          Ovis orientalis x vignei
+0.0002	6	6	species	56194	                                                          Ovis nivicola
+0.0001	2	2	species	37174	                                                          Ovis canadensis
+1.7046	66384	0	family	9604	                                                        Hominidae
+1.7046	66381	0	genus	9605	                                                            Homo
+1.7046	66381	66381	species	9606	                                                              Homo sapiens
+0.0001	2	0	genus	9596	                                                            Pan
+0.0001	2	2	species	9598	                                                              Pan troglodytes
+5.5600	216526	912	family	8899	                                                              Ardeidae
+4.9983	194650	8	genus	8900	                                                                Nycticorax
+4.4838	174614	174614	species	585469	                                                                  Nycticorax caledonicus
+0.5143	20028	20028	species	8901	                                                                  Nycticorax nycticorax
+0.4509	17560	345	genus	30389	                                                                Ardea
+0.4338	16894	16894	species	110620	                                                                  Ardea alba
+0.0063	247	247	species	2200831	                                                                  Ardea insignis
+0.0014	54	54	species	30390	                                                                  Ardea cinerea
+0.0005	19	19	species	188373	                                                                  Ardea purpurea
+0.0000	1	1	species	585465	                                                                  Ardea pacifica
+0.0664	2587	2551	genus	56073	                                                                Egretta
+0.0008	33	33	species	1752861	                                                                  Egretta gularis
+0.0001	3	3	species	188379	                                                                  Egretta garzetta
+0.0190	738	0	genus	110667	                                                                Bubulcus
+0.0190	738	738	species	110668	                                                                  Bubulcus ibis
+0.0013	52	0	genus	110684	                                                                Ixobrychus
+0.0011	44	44	species	498209	                                                                  Ixobrychus minutus
+0.0002	8	8	species	188382	                                                                  Ixobrychus sinensis
+0.0005	21	0	genus	110670	                                                                Butorides
+0.0005	21	21	species	433628	                                                                  Butorides striata
+0.0002	6	0	genus	56293	                                                                Nyctanassa
+0.0002	6	6	species	56294	                                                                  Nyctanassa violacea

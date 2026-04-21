@@ -1,0 +1,3 @@
+1.7995	61813	0	family	9604	                                                        Hominidae
+1.7995	61813	0	genus	9605	                                                            Homo
+1.7995	61813	61813	species	9606	                                                              Homo sapiens

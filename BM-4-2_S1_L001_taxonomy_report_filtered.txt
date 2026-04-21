@@ -1,0 +1,17 @@
+26.6012	729781	0	family	9604	                                                        Hominidae
+26.6007	729765	0	genus	9605	                                                            Homo
+26.6007	729765	729765	species	9606	                                                              Homo sapiens
+0.0005	14	0	genus	9596	                                                            Pan
+0.0005	14	14	species	9598	                                                              Pan troglodytes
+21.9184	601311	54	family	9821	                                                  Suidae
+21.9149	601215	51150	genus	9822	                                                    Sus
+19.4918	534739	534739	species	9823	                                                      Sus scrofa
+0.5509	15113	15113	species	273789	                                                      Sus celebensis
+0.0048	132	132	species	41807	                                                      Sus barbatus
+0.0011	29	29	species	315378	                                                      Sus philippensis x Sus barbatus
+0.0008	22	22	species	315376	                                                      Sus philippensis
+0.0006	16	16	species	159856	                                                      Sus verrucosus
+0.0005	14	14	species	315377	                                                      Sus cebifrons
+0.0013	36	0	genus	673353	                                                    Hylochoerus
+0.0013	36	36	species	673354	                                                      Hylochoerus meinertzhageni
+0.0001	4	2	genus	273790	                                                    Potamochoerus

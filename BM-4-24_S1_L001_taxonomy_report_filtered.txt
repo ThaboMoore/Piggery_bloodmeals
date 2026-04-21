@@ -1,0 +1,18 @@
+94.8579	4515194	10276	family	9895	                                                    Bovidae
+86.6536	4124674	4098745	genus	9935	                                                        Ovis
+0.1772	8436	8436	species	469796	                                                          Ovis orientalis
+0.1529	7280	7280	species	30527	                                                          Ovis ammon
+0.1181	5622	5622	species	3370470	                                                          Ovis gmelinii
+0.0614	2922	2922	species	59896	                                                          Ovis vignei
+0.0124	588	567	species	9943	                                                          Ovis dalli
+0.0004	21	21	subspecies	72761	                                                            Ovis dalli dalli
+0.0105	501	501	species	56194	                                                          Ovis nivicola
+0.0069	329	329	species	9940	                                                          Ovis aries
+0.0036	170	170	species	703186	                                                          Ovis orientalis x vignei
+0.0013	62	62	species	37174	                                                          Ovis canadensis
+1.3546	64479	0	family	9604	                                                        Hominidae
+1.3543	64466	0	genus	9605	                                                            Homo
+1.3543	64466	64466	species	9606	                                                              Homo sapiens
+0.0003	12	0	genus	9596	                                                            Pan
+0.0003	12	12	species	9598	                                                              Pan troglodytes
+0.0000	1	1	genus	9599	                                                            Pongo

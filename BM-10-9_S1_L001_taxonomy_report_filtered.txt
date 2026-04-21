@@ -1,0 +1,21 @@
+1.0277	8929	7	family	9895	                                                    Bovidae
+0.9420	8185	8114	genus	9935	                                                        Ovis
+0.0030	26	26	species	469796	                                                          Ovis orientalis
+0.0018	16	16	species	3370470	                                                          Ovis gmelinii
+0.0015	13	13	species	30527	                                                          Ovis ammon
+0.0010	9	9	species	59896	                                                          Ovis vignei
+0.0007	6	6	species	9940	                                                          Ovis aries
+0.0001	1	1	species	703186	                                                          Ovis orientalis x vignei
+0.0002	2	1	genus	9922	                                                        Capra
+0.0001	1	1	species	72544	                                                          Capra sibirica
+0.0001	1	0	genus	37178	                                                        Hemitragus
+0.0001	1	1	species	37179	                                                          Hemitragus jemlahicus
+0.0013	11	0	genus	457560	                                                        Nanger
+0.0013	11	0	species	67940	                                                          Nanger dama
+0.0013	11	11	subspecies	67941	                                                            Nanger dama ruficollis
+0.0001	1	0	genus	59537	                                                        Pantholops
+0.0001	1	1	species	59538	                                                          Pantholops hodgsonii
+0.0014	12	0	genus	9928	                                                        Damaliscus
+0.0014	12	12	species	9929	                                                          Damaliscus lunatus
+0.0001	1	0	genus	59553	                                                        Redunca
+0.0001	1	1	species	59556	                                                          Redunca redunca

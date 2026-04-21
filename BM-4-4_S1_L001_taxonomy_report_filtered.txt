@@ -1,0 +1,42 @@
+76.0401	2202323	5180	family	9895	                                                    Bovidae
+68.9317	1996443	1987117	genus	9935	                                                        Ovis
+0.1071	3101	3101	species	3370470	                                                          Ovis gmelinii
+0.0687	1989	1989	species	59896	                                                          Ovis vignei
+0.0684	1980	1980	species	469796	                                                          Ovis orientalis
+0.0642	1860	1860	species	30527	                                                          Ovis ammon
+0.0058	167	167	species	9940	                                                          Ovis aries
+0.0043	125	125	species	56194	                                                          Ovis nivicola
+0.0026	74	74	species	703186	                                                          Ovis orientalis x vignei
+0.0007	20	20	species	37174	                                                          Ovis canadensis
+0.0003	8	7	species	9943	                                                          Ovis dalli
+0.0000	1	1	subspecies	72761	                                                            Ovis dalli dalli
+8.6459	250408	0	family	9604	                                                        Hominidae
+8.6455	250396	0	genus	9605	                                                            Homo
+8.6455	250396	250396	species	9606	                                                              Homo sapiens
+0.0002	7	0	genus	9596	                                                            Pan
+0.0002	7	7	species	9598	                                                              Pan troglodytes
+0.0001	2	2	genus	9599	                                                            Pongo
+1.1892	34442	2	family	9158	                                                                  Passeridae
+1.1888	34430	34184	genus	9159	                                                                    Passer
+0.0024	70	70	species	56115	                                                                      Passer hispaniolensis
+0.0022	63	63	species	150919	                                                                      Passer simplex
+0.0008	24	24	species	9160	                                                                      Passer montanus
+0.0008	23	23	species	48849	                                                                      Passer domesticus
+0.0007	21	21	species	150918	                                                                      Passer rutilans
+0.0007	19	19	species	498210	                                                                      Passer moabiticus
+0.0003	9	9	species	150917	                                                                      Passer melanurus
+0.0003	9	9	species	58821	                                                                      Passer luteus
+0.0001	4	4	species	1930199	                                                                      Passer iagoensis
+0.0001	2	2	species	2796153	                                                                      Passer eminibey
+0.0000	1	1	species	150914	                                                                      Passer ammodendri
+0.0000	1	1	species	2796154	                                                                      Passer motitensis
+0.0001	4	0	genus	667179	                                                                    Pyrgilauda
+0.0001	2	2	species	667180	                                                                      Pyrgilauda blanfordi
+0.0000	1	1	species	221976	                                                                      Pyrgilauda ruficollis
+0.0000	1	1	species	1477527	                                                                      Pyrgilauda davidiana
+0.0001	3	0	genus	1405429	                                                                    Gymnoris
+0.0001	3	3	species	1405430	                                                                      Gymnoris xanthocollis
+0.0001	2	0	genus	221975	                                                                    Montifringilla
+0.0001	2	2	species	356906	                                                                      Montifringilla adamsi
+0.0000	1	0	genus	150912	                                                                    Petronia
+0.0000	1	1	species	150913	                                                                      Petronia petronia
